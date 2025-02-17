@@ -41,7 +41,7 @@ function Banner() {
   }
 
   return (
-    <div className="banner-container">
+    <div className="banner-container middle">
       <div className="banner">
         <div
           className="carousel"

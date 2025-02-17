@@ -62,6 +62,9 @@ function Menubar() {
           </div>
         </div>
       </div>
+      <div>
+        <button className="reload">Reload Page</button>
+      </div>
     </>
   );
 }
